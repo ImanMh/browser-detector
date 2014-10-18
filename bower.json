@@ -1,0 +1,10 @@
+{
+  "name": "browser-detector",
+  "version": "0.0.0",
+  "description": "A Tiny Javascript Detector Module",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": null,
+    "bootstrap": null
+  }
+}

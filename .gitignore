@@ -1,0 +1,11 @@
+#ide stuff
+*.swp 
+.idea
+
+#mac files
+.DS_Store
+
+#third party
+libs/*
+
+
